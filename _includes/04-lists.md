@@ -1,4 +1,3 @@
-#### My favorite foods
-1. Pizza :pizza:
-2. Burgers :burger:
+1. Pizza 
+2. Burgers 
 3. Any Dessert 
